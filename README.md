@@ -1,4 +1,4 @@
-# Altum Labs ML Technical Analysis on Arrhythmia Datasets
+# ML Technical Analysis on Arrhythmia Datasets
 
 This repository contains a comprehensive machine learning analysis on two key datasets related to arrhythmia: the MIT-BIH Arrhythmia Dataset and the PTB Diagnostic ECG Database. The analysis is structured as follows:
 
